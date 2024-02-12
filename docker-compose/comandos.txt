@@ -1,0 +1,4 @@
+Comandos
+========
+
+docker compose up -d
